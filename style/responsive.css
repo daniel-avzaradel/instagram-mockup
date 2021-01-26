@@ -1,0 +1,37 @@
+@media (max-width:1024px) {
+    .instagram-wrapper {
+        width: 90%;
+    }
+}
+
+@media (max-width:756px) {
+    .download img {
+        height: 2.3rem;
+    }
+}
+
+@media (max-width:650px) {
+    .instagram-wrapper {
+        width: 90%;
+    }
+    .instagram-phone {
+        display: none;
+    }    
+    .instagram-continue {
+        min-width: 60vw;
+    }
+    .download {
+        width: 60%;
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .download img {
+        height: 2.4rem;
+    }
+}
+
+@media (max-width: 500px) {
+    .instagram-continue {
+        min-width: 80vw;
+    }
+}
