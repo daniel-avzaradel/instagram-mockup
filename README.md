@@ -1,4 +1,4 @@
-# Instagram Mockup
+# Instagram Mockup :camera:
 
 #### Aluno: Daniel Avzaradel
 
